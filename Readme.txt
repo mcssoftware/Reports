@@ -1,4 +1,4 @@
-I tried to create this Power BI report for learning and with dataset available on the internet.
+I tried to create this Power BI report for learning and with data available on the internet.
 
 For the Optical Dataset;
 This report allows to see the Optometric patients appointment details.
